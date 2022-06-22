@@ -25,7 +25,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 > in this project
 
-- Project Report: [Query Digital (https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database/Final%20Report.pdf)
+- Project Report: [Query Digital Music Store Database](https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database/Final%20Report.pdf)
 
 
 ### [Part 4: Data Visualization](https://github.com/M0hannad/Business-Analytics-Nanodegree/tree/main/Project%204%20-%20Build%20Data%20Dashboards)
@@ -33,4 +33,4 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 > in this project
 
-- Project Report: [Build Data Dashboardsl(https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%204%20-%20Build%20Data%20Dashboards/Tableau%20Report.pdf)
+- Project Report: [Build Data Dashboards](https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%204%20-%20Build%20Data%20Dashboards/Tableau%20Report.pdf)
