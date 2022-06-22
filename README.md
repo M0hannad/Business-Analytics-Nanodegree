@@ -35,6 +35,6 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 - Project Report: [Build Data Dashboards](https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%204%20-%20Build%20Data%20Dashboards/Tableau%20Report.pdf)
 
 ---
-### Certificate of Completion
+### [Certificate of Completion](https://confirm.udacity.com/XCKD2HCD)
 
 <img width="685" alt="Certificate of Completion" src="https://user-images.githubusercontent.com/86031983/174958042-162f3440-3c35-4e4d-a0f2-63724af98452.png">
