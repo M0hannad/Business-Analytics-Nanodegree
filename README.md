@@ -34,6 +34,12 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 - [Link to Project](https://github.com/M0hannad/Business-Analytics-Nanodegree/tree/main/Project%204%20-%20Build%20Data%20Dashboards)
 - [Dataset Used](https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%204%20-%20Build%20Data%20Dashboards/Dataset%20(flight%20Delays).zip)
 
+---
+## Tools Used
+
+- SQL
+- EXcel
+- Tableau
 
 ---
 ### [Certificate of Completion](https://confirm.udacity.com/XCKD2HCD)
