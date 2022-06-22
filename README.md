@@ -37,9 +37,9 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 ---
 ## Tools Used
 
-- SQL
-- EXcel
-- Tableau
+- Database Querying using `SQL` 
+- Data Analysis using `Excel` 
+- Data Visualization using `Tableau`
 
 ---
 ### [Certificate of Completion](https://confirm.udacity.com/XCKD2HCD)
