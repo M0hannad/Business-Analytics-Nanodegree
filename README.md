@@ -1,6 +1,6 @@
 # Business Analytics Nanodegree
 
-[https://www.udacity.com/blog/search/label/digital-marketing-nanodegree-program](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Udacity_logo.svg/2560px-Udacity_logo.svg.png)
+![2560px-Udacity_logo svg](https://user-images.githubusercontent.com/86031983/175002935-92507110-35b1-4fb4-92a0-ef3a61cf9e1e.png)
 
 This repository contains my projects for [Udacity's Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098) Nanodegree Program. This Udacity program aims to develop foundational data skills that apply across functions and industries. To Analyze data using `Excel`, query a database using `SQL` and build interactive dashboards and visualizations in `Tableau`. The main objectives for this nanodegree are to gain foundational data skills that are applicable to any industry. Collect and analyze data, model business scenarios, and communicate your findings with SQL, Excel, and Tableau. 
 
