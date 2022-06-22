@@ -43,5 +43,5 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 **Acknowledgement**
 
-Thanks to `Misk Skills` and `SDAIA` for the sponsorship for this scholarship.
+Thanks to `Misk Skills` and `SDAIA` for the sponsoring me on this Nanodegree Program.
 
