@@ -5,7 +5,9 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 ## [Part 1: Introduction to Data Analysis](https://github.com/M0hannad/Business-Analytics-Nanodegree/tree/main/Project%201%20-%20Interpret%20a%20Data%20Visualization)
 
 
-> in this project
+> in this project, In this project, I explored an interactive data dashboard about Malaria in Africa to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
+
+
 
 - Project Report: [Interpret a Data Visualization](https://github.com/M0hannad/Business-Analytics-Nanodegree/blob/main/Project%201%20-%20Interpret%20a%20Data%20Visualization/Report.pdf)
 
