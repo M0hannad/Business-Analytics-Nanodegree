@@ -1,0 +1,18 @@
+/* Query 2 - Number of Songs Sold */
+
+SELECT ar.Name, count(il.TrackId) "Number of Songs Sold"
+
+FROM Track t 
+
+JOIN Album al on al.AlbumId = t.AlbumId
+	
+JOIN Artist ar on ar.ArtistId = al.ArtistId
+
+JOIN InvoiceLine il on il.TrackId = t.TrackId
+
+GROUP BY ar.ArtistId
+
+ORDER BY 2 DESC
+
+LIMIT 5
+

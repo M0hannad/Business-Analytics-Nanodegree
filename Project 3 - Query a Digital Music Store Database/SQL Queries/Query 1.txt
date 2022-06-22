@@ -1,0 +1,17 @@
+
+/* Query 1 -  Total Sales & Number of Customers for each Sales Agent in 2013: */
+
+SELECT e.FirstName || " " || e.LastName "Sales Agent", sum(i.total) "Total Sales in 2013", count(DISTINCT c.CustomerId) "Number of Customers"
+
+FROM Invoice i
+
+join Customer c on i.CustomerId = c.CustomerId
+
+JOIN employee e on c.SupportRepId = e.EmployeeId
+
+WHERE i.InvoiceDate like "2013%"
+
+GROUP BY e.EmployeeId
+
+ORDER BY 2 DESC
+

@@ -1,0 +1,15 @@
+/* Query 4 - Number of Purchase for each genre */
+
+SELECT g.Name "Genre", Count(InvoiceId) "Number of Purchases"
+
+FROM Genre g
+
+JOIN Track t on t.GenreId = g.GenreId
+
+JOIN InvoiceLine il on il.TrackId = t.TrackId
+
+GROUP BY g.GenreId
+
+ORDER BY 2 DESC
+
+LIMIT 10
