@@ -11,8 +11,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 
 
-### [Part 2: Introduction to Data](https://github.com/M0hannad/Business-Analytics-Nanodegree/tree/main/Project%201%20-%20Interpret%20a%20Data%20Visualization](https://github.com/M0hannad/Business-Analytics-Nanodegree/tree/main/Project%202%20-%20Analyze%20NYSE%20Data)
-
+### [Part 2: Introduction to Data](https://github.com/M0hannad/Business-Analytics-Nanodegree/tree/main/Project%201%20-%20Interpret%20a%20Data%20Visualization)
 
 > in this project
 
